@@ -15,4 +15,5 @@ Python Developer | Software Engineer | Data Science | Frontend Developer
 
 # 📬 Get in Touch
 LinkedIn: https://www.linkedin.com/in/suraj097/
+
 E-mail: ersuraj097@gmail.com
