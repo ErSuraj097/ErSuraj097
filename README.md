@@ -5,7 +5,11 @@ Python Developer | Software Engineer | Data Science | Frontend Developer
 
 📚 Bachelor of Technology (B.Tech.) in  Computer Science and Engineering 
 
-    (Feroze Gandhi Institute of Engineering and Technology)
+Feroze Gandhi Institute of Engineering and Technology)
+
+📚 Diploma in  Computer Science and Engineering -
+(Government Polytechnic Mau)
+
 
 🐍 Python Developer || Data Scinece
 
