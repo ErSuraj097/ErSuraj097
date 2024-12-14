@@ -11,9 +11,9 @@ Feroze Gandhi Institute of Engineering and Technology)
 (Government Polytechnic Mau)
 
 
-🐍 Python Developer || Data Scinece
+🐍 React Developer || Python Developer || Data Scinece
 
-👩‍🏫 Certified Microsoft Azure - Microsoft || C programming - CISCO
+👩‍🏫 Certified Microsoft Azure - Microsoft || C programming - CISCO || Frontend Developer - Meta
 💡 
 🧬 
 
