@@ -18,6 +18,11 @@ Feroze Gandhi Institute of Engineering and Technology)
 🧬 
 
 # 📬 Get in Touch
-LinkedIn: https://www.linkedin.com/in/suraj097/
 
-E-mail: ersuraj097@gmail.com
+## 📈 GitHub Stats  
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErSuraj097&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErSuraj097&layout=compact&theme=tokyonight)  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj097/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ersuraj097@gmail.com)  
